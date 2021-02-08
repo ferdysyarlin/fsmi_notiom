@@ -10,10 +10,10 @@ export default () => (
     <Header titlePre="Home" />
     <div className={sharedStyles.layout}>
       <img
-        src="/vercel-and-notion.png"
+        src="/FPA33-header.png"
         height="85"
         width="250"
-        alt="Vercel + Notion"
+        alt="FPA33"
       />
       <h1>My Notion Blog</h1>
       <h2>
