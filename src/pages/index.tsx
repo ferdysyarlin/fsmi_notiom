@@ -15,51 +15,22 @@ export default () => (
         width="250"
         alt="FPA33"
       />
-      <h1>My Notion Blog</h1>
+      <h1>DIREKTORI FPA 33 - ARSIP IAIN BONE</h1>
       <h2>
-        Blazing Fast Notion Blog with Next.js'{' '}
-        <ExtLink
-          href="https://github.com/vercel/next.js/issues/9524"
-          className="dotted"
-          style={{ color: 'inherit' }}
-        >
-          SSG
-        </ExtLink>
+        Sumbe Informasi Terbuka Untuk Pengelola Arsip IAIN Bone-
       </h2>
 
       <Features />
 
       <div className="explanation">
         <p>
-          This is a statically generated{' '}
-          <ExtLink href="https://nextjs.org">Next.js</ExtLink> site with a{' '}
-          <ExtLink href="https://notion.so">Notion</ExtLink> powered blog that
-          is deployed with <ExtLink href="https://vercel.com">Vercel</ExtLink>.
-          It leverages some upcoming features in Next.js like{' '}
-          <ExtLink href="https://github.com/vercel/next.js/issues/9524">
-            SSG support
-          </ExtLink>{' '}
-          and{' '}
-          <ExtLink href="https://github.com/vercel/next.js/issues/8626">
-            built-in CSS support
-          </ExtLink>{' '}
-          which allow us to achieve all of the benefits listed above including
-          blazing fast speeds, great local editing experience, and always being
-          available!
+Selamat Datang di laman Web (Belum) Resmi Forum Pengelola Arsip IAIN Bone. Web ini dikelola secara independen oleh Pengelola Arsip IAIN Bone dan diharapkan dalam beberapa bulan kedepan dapat memiliki subdomain dan email resmi dari iain-bone.ac.id👏 dan tentunya dikelola secara profesional.
+Walau web ini memanfaatkan domain, hosting dan template yang serba gratis, namun tidak murahan, tetap selektif dan memaksimalkan segala sumber daya yang ada , dan hasilnya ?! Seperti yang anda lihat 😊. Jika ingin berterimakasih, tentunya First, kepada Allah SWT, atas segala nikmatnya. Second Blogger dengan segala gratisannya. Third Template dari igniel.com yang luar biasa smooth dan keren. Terimakasih.
+Selanujutnya Apa ?
         </p>
 
         <p>
-          Get started by creating a new page in Notion and clicking the deploy
-          button below. After you supply your token and the blog index id (the
-          page's id in Notion) we will automatically create the table for you!
-          See{' '}
-          <ExtLink href="https://github.com/ijjk/notion-blog#getting-blog-index-and-token">
-            here in the readme
-          </ExtLink>{' '}
-          for finding the new page's id. To get your token from Notion, login
-          and look for a cookie under www.notion.so with the name `token_v2`.
-          After finding your token and your blog's page id you should be good to
-          go!
+Tentunya butuh energi yang tidak sedikit, disamping SDM. Namun kami memiliki visi untuk mewujudkan Pengelolaan Kearsipan yang inovatif dan kreatif di lingkungan IAIN Bone, dan dalam prosesnya membutuhkan segala bantuan yang ada, dan kehadiran Web ini dalam visi kami memiliki peranan penting, sebagai jembatan, sebagai wadah informasi kegiatan kearsipan, sebagai komunitas dan segala kemungkinan perkembangannya, yang kami pun sangat antusisa melihatnya.
         </p>
       </div>
     </div>
